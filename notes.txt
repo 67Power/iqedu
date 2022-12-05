@@ -1,0 +1,9 @@
+ pip install --trusted-host files.pythonhosted.org --trusted-host pypi.org --trusted-host pypi.python.org django
+django yukleme
+
+python -m pip install --trusted-host files.pythonhosted.org --trusted-host pypi.org --trusted-host pypi.python.org --upgrade pip
+pip upgrade
+
+PYTHON MANGE.PY RUNSERVER  server çalışır hostta tıklanınca gorunur
+ctrl c : serverı kapar
+deactive : sanal ortamı kapatır
